@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AnithaPriya1386.github.io/QuizAPP_ReactJS/static/css/main.827ea6ab.css",
-    "main.js": "/AnithaPriya1386.github.io/QuizAPP_ReactJS/static/js/main.1716c7f8.js",
-    "static/js/453.e9a0592c.chunk.js": "/AnithaPriya1386.github.io/QuizAPP_ReactJS/static/js/453.e9a0592c.chunk.js",
-    "index.html": "/AnithaPriya1386.github.io/QuizAPP_ReactJS/index.html",
-    "main.827ea6ab.css.map": "/AnithaPriya1386.github.io/QuizAPP_ReactJS/static/css/main.827ea6ab.css.map",
-    "main.1716c7f8.js.map": "/AnithaPriya1386.github.io/QuizAPP_ReactJS/static/js/main.1716c7f8.js.map",
-    "453.e9a0592c.chunk.js.map": "/AnithaPriya1386.github.io/QuizAPP_ReactJS/static/js/453.e9a0592c.chunk.js.map"
+    "main.css": "/QuizAPP_ReactJS/static/css/main.827ea6ab.css",
+    "main.js": "/QuizAPP_ReactJS/static/js/main.09ef67d9.js",
+    "static/js/453.e9a0592c.chunk.js": "/QuizAPP_ReactJS/static/js/453.e9a0592c.chunk.js",
+    "index.html": "/QuizAPP_ReactJS/index.html",
+    "main.827ea6ab.css.map": "/QuizAPP_ReactJS/static/css/main.827ea6ab.css.map",
+    "main.09ef67d9.js.map": "/QuizAPP_ReactJS/static/js/main.09ef67d9.js.map",
+    "453.e9a0592c.chunk.js.map": "/QuizAPP_ReactJS/static/js/453.e9a0592c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.827ea6ab.css",
-    "static/js/main.1716c7f8.js"
+    "static/js/main.09ef67d9.js"
   ]
 }
